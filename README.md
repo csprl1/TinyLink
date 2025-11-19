@@ -6,6 +6,13 @@ Implements short-code creation, redirects with click-tracking, per-link stats, a
 This repository is implemented as a take-home assignment (specification included). See original assignment: :contentReference[oaicite:1]{index=1}
 
 ---
+##Live Deployment (Vercel)
+
+Live App:
+👉 [https://YOUR-VERCEL-URL.vercel.app](https://tiny-link-ebon.vercel.app/)
+
+---
+
 
 ## Features
 
